@@ -1,0 +1,21 @@
+model,alias,feature,mean_abs_shap
+SVM (RBF),F01,GyroscopeZ_spectral_entropy,0.0216369297616347
+SVM (RBF),F02,GyroscopeZ_dominant_amp,0.0147194800054093
+SVM (RBF),F03,MagnetometerY_range,0.0111149251172633
+SVM (RBF),F04,AccelerometerZ_rms,0.0094022655362621
+SVM (RBF),F05,AccelerometerY_dominant_amp,0.0085998357217494
+SVM (RBF),F06,GyroscopeY_median,0.0084863361430029
+SVM (RBF),F07,GyroscopeY_q75,0.0069995279628715
+SVM (RBF),F08,AccelerometerX_rms,0.006693400619981
+SVM (RBF),F09,GyroMagnitude_std,0.0063448958297663
+SVM (RBF),F10,AccelerometerZ_max,0.0061135982468923
+SVM (RBF),F11,GyroscopeZ_rms,0.0060495778986838
+SVM (RBF),F12,MagnetometerX_range,0.0059223826908478
+SVM (RBF),F13,GyroscopeY_rms,0.0056900500671938
+SVM (RBF),F14,GyroscopeZ_zero_crossings,0.0056414198204484
+SVM (RBF),F15,AccelerometerX_energy,0.0053456157596391
+SVM (RBF),F16,AccelerometerX_zero_crossings,0.0052057069620718
+SVM (RBF),F17,MagnetometerY_q25,0.0052020973522953
+SVM (RBF),F18,GyroscopeY_std,0.0050293592707471
+SVM (RBF),F19,AccelerometerZ_energy,0.0049925938441971
+SVM (RBF),F20,AccMagnitude_mean,0.0049558300532332

@@ -1,0 +1,21 @@
+model,alias,feature,mean_abs_shap
+XGBoost (tuned),F01,GyroscopeZ_spectral_entropy,0.7320575
+XGBoost (tuned),F31,AccelerometerZ_dominant_amp,0.37322855
+XGBoost (tuned),F12,MagnetometerX_range,0.36481535
+XGBoost (tuned),F02,GyroscopeZ_dominant_amp,0.359339
+XGBoost (tuned),F05,AccelerometerY_dominant_amp,0.33578494
+XGBoost (tuned),F06,GyroscopeY_median,0.2972659
+XGBoost (tuned),F21,MagnetometerY_max,0.2915409
+XGBoost (tuned),F32,GyroscopeY_energy,0.17327663
+XGBoost (tuned),F33,GyroscopeZ_median,0.17010114
+XGBoost (tuned),F29,AccelerometerX_spectral_entropy,0.16319549
+XGBoost (tuned),F34,MagnetometerZ_q25,0.1605345
+XGBoost (tuned),F35,GyroscopeX_dominant_freq,0.14113902
+XGBoost (tuned),F04,AccelerometerZ_rms,0.13316089
+XGBoost (tuned),F16,AccelerometerX_zero_crossings,0.13017464
+XGBoost (tuned),F36,AccelerometerZ_mean,0.1301672
+XGBoost (tuned),F37,AccelerometerZ_q75,0.12587821
+XGBoost (tuned),F18,GyroscopeY_std,0.123920634
+XGBoost (tuned),F38,MagnetometerZ_energy,0.12251203
+XGBoost (tuned),F10,AccelerometerZ_max,0.12075264
+XGBoost (tuned),F39,GyroscopeZ_std,0.11926855

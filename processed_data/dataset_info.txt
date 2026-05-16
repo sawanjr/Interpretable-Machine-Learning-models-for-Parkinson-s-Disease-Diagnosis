@@ -1,0 +1,8 @@
+Total Subjects: 53
+PD Subjects: 29
+Control Subjects: 24
+Total Trials: 735
+Number of Features: 129
+Feature Categories:
+  Statistical: 105
+  Frequency: 24

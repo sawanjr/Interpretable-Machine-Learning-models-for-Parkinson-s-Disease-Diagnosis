@@ -1,0 +1,21 @@
+model,alias,feature,mean_abs_shap
+Logistic Regression (tuned),F08,AccelerometerX_rms,0.3831983902685951
+Logistic Regression (tuned),F15,AccelerometerX_energy,0.3612882503121377
+Logistic Regression (tuned),F20,AccMagnitude_mean,0.3528137452812362
+Logistic Regression (tuned),F01,GyroscopeZ_spectral_entropy,0.339147666302615
+Logistic Regression (tuned),F06,GyroscopeY_median,0.306831853454436
+Logistic Regression (tuned),F21,MagnetometerY_max,0.3005242514399298
+Logistic Regression (tuned),F05,AccelerometerY_dominant_amp,0.2641655267471101
+Logistic Regression (tuned),F22,AccelerometerX_spectral_energy,0.2624700840061726
+Logistic Regression (tuned),F16,AccelerometerX_zero_crossings,0.2565974328092921
+Logistic Regression (tuned),F23,GyroMagnitude_max,0.2521266741160163
+Logistic Regression (tuned),F24,AccelerometerX_min,0.2515341900752392
+Logistic Regression (tuned),F25,MagnetometerX_median,0.236669887750903
+Logistic Regression (tuned),F02,GyroscopeZ_dominant_amp,0.2298126472421017
+Logistic Regression (tuned),F12,MagnetometerX_range,0.2225108444126588
+Logistic Regression (tuned),F26,AccelerometerX_max,0.2215423528369101
+Logistic Regression (tuned),F27,MagnetometerY_min,0.2077502124881179
+Logistic Regression (tuned),F03,MagnetometerY_range,0.2004633448917578
+Logistic Regression (tuned),F28,GyroscopeY_spectral_entropy,0.1980613457637034
+Logistic Regression (tuned),F29,AccelerometerX_spectral_entropy,0.1914727392593731
+Logistic Regression (tuned),F30,GyroscopeX_spectral_entropy,0.189896567327995
